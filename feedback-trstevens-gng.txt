@@ -1,7 +1,0 @@
-The topic for Galen's presentation was Error Correcting Codes and its application to data. The key ideas were that data can become corrupt and error correcting codes are applied to restore the data back to its original form. We went over Hamming codes and how they are used to restore data by encoding four bits of data into seven bits by adding the parity bits.
-
-    - One thing that *you liked* about their presentation
-        I enjoyed the real-world application of error correcting codes that was used to send pictures from mars to earth because it piqued my interest on the topic.
-        
-    - One (respectfully worded) piece of constructive criticism/idea for what they could improve on for "next time"
-        The only thing I could say was he did have to rush the latter half because of the time lectures time constraint. Other than that, the presentation was spot on!
