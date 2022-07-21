@@ -1,0 +1,7 @@
+       Anthony’s presentation was on Modeling epidemics using SIR. He refreshed our memory of differential equations and showed us how to analyze ordinary differential equations since they are used to model epidemics and went through useful application of the process. 
+       
+    - One thing that *you liked* about their presentation
+    I liked that he showed interesting examples of our current day global pandemic. He also said through his research that his results were not far off from high level analysis and that made me feel like this topic was something I could tackle. 
+    
+    - One (respectfully worded) piece of constructive criticism/idea for what they could improve on for "next time"
+    I think that next time that more visuals would benefit this topic and maybe some more examples.
